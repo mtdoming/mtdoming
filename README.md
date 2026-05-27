@@ -23,3 +23,8 @@ I'm currently finishing my Master's degree in UX Design at Arizona State Univers
 - I love content creation, branding, and creative direction
 - I have a three year old Maltipoo named Mr. Milo that goes almost everywhere with me!
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mtdoming&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mtdoming&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mtdoming&hide_border=true)
